@@ -1,0 +1,24 @@
+.footer {
+    background-color: rgba(0, 0, 0, 0.945);
+    color: rgb(236, 230, 230);
+    display: flex;
+}
+
+.footer__section {
+    margin: 30px auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+
+
+}
+
+.footer-center {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.footer-center>span {
+    padding-top: 10px;
+}
