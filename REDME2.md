@@ -4,6 +4,6 @@
 
 #next start file (npm start) in cmd
 
-#this project can add product to kart and remove from kart
+#This project can add product to cart and remove from cart
 
 #and login and logout using firebase authentication 
